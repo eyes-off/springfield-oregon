@@ -11,9 +11,10 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 
 ## Public Records Requests
 # Active Requests
-| Label                          | Submitted | Status                                     | Fee              | Link   |
-|--------------------------------|-----------|--------------------------------------------|------------------|--------|
-| Inventory of Surveillance Tech | 8/17/2025 | Open - Fee Issued                          | $432.50 <br>Unpaid | [Link](https://github.com/eyes-off/springfield-oregon/tree/main/PublicRecords/2025_InventoryOfSurveillanceTech) |
+| Label                                 | Submitted | Status                                     | Fee                | Link   |
+|---------------------------------------|-----------|--------------------------------------------|--------------------|--------|
+| Inventory of Surveillance Tech        | 8/17/2025 | Open - Fee Issued                          | $432.50 <br>Unpaid | [Link](https://github.com/eyes-off/springfield-oregon/tree/main/PublicRecords/2025_InventoryOfSurveillanceTech) |
+| Oregon Retail Grant Reports - Updates | 11/3/2025 | Open                                       |                    | [Link](https://github.com/eyes-off/springfield-oregon/tree/main/PublicRecords/ORT_Grant_Report_Updates%5B2511-11%5D)
 
 # Inactive Requests
 | Label                                      | Submitted | Status                 | Fee                 | Link   |
